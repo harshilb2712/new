@@ -10,3 +10,5 @@ def log10(n):
 # log10(2)
 
 f = [23, 67, 90]
+
+print(log10(7))  # 1st change to the file
