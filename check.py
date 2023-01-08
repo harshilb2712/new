@@ -1,4 +1,4 @@
-def sqrt(n):
+def sqrt(n):    # This function will calculate the square root of the integer
     r = n *2
     return r
 
@@ -12,3 +12,4 @@ def log10(n):
 f = [23, 67, 90]
 
 print(log10(7))  # 1st change to the file
+
